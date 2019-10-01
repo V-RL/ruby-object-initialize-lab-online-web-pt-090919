@@ -4,4 +4,5 @@ class Person
     @name = name 
   end
   
+  attr_reader :name 
     
